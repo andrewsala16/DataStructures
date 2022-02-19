@@ -1,0 +1,16 @@
+Show|Archive 81|Sci_Fi|TV-MA|1
+Show|After Life|Drama|TV-MA|3
+Movie|After We Fell|Drama|R|98
+Movie|Brazen|Mystery|TV-14|96
+Show|Ozark|Drama|TV-MA|3
+Show|The Witcher|Drama|TV-MA|2
+Show|Castlevania|Anime|TV-MA|4
+Show|Shadow and Bone|Fantasy|TV-14|1
+Movie|Don't Look Up|Comedy|R|138
+Show|Arcane League of Legends|Animation|TV-14|1
+Show|The Queen's Gambit|Drama|TV-MA|1
+Show|Arrested Development|Comedy|TV-MA|5
+Movie|The Alpinist|Documentary|PG-13|92
+Movie|My Octopus Teacher|Documentary|TV-G|85
+Movie|The Girl With The Dragon Tattoo|Drama|R|158
+Movie|Miss Sloane|Drama|R|131
