@@ -1,5 +1,5 @@
 # DataStructures
-Projects done throughout Programming and Data Structures in Spring 2022 semester
+Projects done throughout Programming and Data Structures class in Spring 2022 semester
 
 HW - Homework
 
